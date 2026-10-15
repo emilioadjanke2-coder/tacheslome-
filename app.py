@@ -3,7 +3,7 @@ from flask import Flask
 app = Flask(__name__)
 
 WHATSAPP_NUMBER = "22870005827"
-WHATSAPP_LINK = f"https://wa.me/{WHATSAPP_NUMBER}?text=Bonjour%20Emil,%20je%20veux%20la%20gestion%20Page%20à%2015.000F"
+WHATSAPP_LINK = f"https://api.whatsapp.com/send?phone={WHATSAPP_NUMBER}&text=Bonjour%20Emilio,%20je%20veux%20la%20gestion%20Page%20à%2015.000F"
 
 HTML = f"""
 <!DOCTYPE html>
