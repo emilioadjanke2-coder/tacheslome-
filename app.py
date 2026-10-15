@@ -27,7 +27,9 @@ h1{font-size:32px;margin:12px 0 5px}
 <span>🔧 Petits travaux</span>
 </div>
 <p><b>Anciennes annonces supprimees<br>Reduction de lancement pour premiers clients !</b></p>
-<a class="btn" href="https://wa.me/22870005827">📱 WhatsApp: 70 00 58 27</a>
+whatsapp_number = "22507..."
+# ou
+link = f"https://wa.me/{numero}"
 <a class="btn2" href="/gestion-page">📱 NOUVEAU: Gestion Page Facebook 15.000F/mois →</a>
 <p style="color:gray;font-size:12px;margin-top:15px">Lome - 7j/7 - Nouveau depart propre</p>
 </div>
